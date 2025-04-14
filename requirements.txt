@@ -1,0 +1,6 @@
+requests
+matplotlib
+numpy
+scikit-learn
+joblib
+python-dotenv
