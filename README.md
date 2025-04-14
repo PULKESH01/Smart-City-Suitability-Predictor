@@ -30,7 +30,7 @@ A data-driven, machine learning-powered application that predicts **whether it's
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/city-suitability-predictor.git
+   git clone https://github.com/PULKESH01/city-suitability-predictor.git
    cd city-suitability-predictor
    ```
 
@@ -41,7 +41,7 @@ A data-driven, machine learning-powered application that predicts **whether it's
 
 3. Add your OpenWeatherMap API key:
    ```python
-   API_KEY = "your_openweathermap_api_key"
+   API_KEY = "5acc79a4dd0593bf86e79fe226f2db09"
    ```
 
 4. Run the script:
