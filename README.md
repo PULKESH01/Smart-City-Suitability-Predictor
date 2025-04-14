@@ -30,8 +30,8 @@ A data-driven, machine learning-powered application that predicts **whether it's
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PULKESH01/city-suitability-predictor.git
-   cd city-suitability-predictor
+   git clone https://github.com/PULKESH01/smart-city-suitability-predictor.git
+   cd smart-city-suitability-predictor
    ```
 
 2. Install dependencies (or use Colab):
